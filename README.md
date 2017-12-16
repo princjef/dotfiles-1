@@ -9,3 +9,5 @@ Dotfiles used on my Arch with i3-gaps wm
 * [compton](https://github.com/chjj/compton)
 * [dunst](https://github.com/dunst-project/dunst)
 * Font: Pragmata Pro ( Patched with Nerd Font )
+
+![Current Desktop](https://raw.githubusercontent.com/rexhepberlajolli/dotfiles/master/screens/screen.jpg "Screenshot")
